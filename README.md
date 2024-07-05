@@ -107,8 +107,7 @@ Frontend Web Developer, actively learning and applying core technologies like HT
 
 <h3 align="left">My Github Stats:</h3>
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mfaisalh12&theme=highcontrast"
-    alt="mfaisalh12" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=septiandyy&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" />
 </p>
 <p>&nbsp;
   <img align="left"
