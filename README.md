@@ -116,6 +116,6 @@ Frontend Web Developer, actively learning and applying core technologies like HT
 </p>
 <p>
   <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mfaisalh12&show_icons=true&theme=highcontrast"
-    alt="mfaisalh12" />
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=septiandyy&show_icons=true&theme=highcontrast"
+    alt="septiandyy" />
 </p>
