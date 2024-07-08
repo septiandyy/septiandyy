@@ -1,4 +1,4 @@
-### <h2 align="center">Hi there 👋, Septiandy Here</h2>
+### <h2 align="center">Hi there 👋, Septiandy here</h2>
 
 <p><h4 align="justify">Junior Frontend Web Developer, actively learning and applying core technologies like HTML, CSS, and JavaScript to create engaging and responsive web interfaces.</p>
 <p></p><b>I thrive</b> on transforming creative ideas into engaging, user-friendly web experiences. <b>I enjoy</b> the challenge of solving complex problems and continuously learning new technologies to stay at the forefront of the industry. <b>I'm driven</b> by a desire to create intuitive, accessible, and aesthetically pleasing web applications that enhance user experience.</p></h4>
